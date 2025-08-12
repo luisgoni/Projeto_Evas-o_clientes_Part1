@@ -88,8 +88,7 @@ Os dados foram obtidos de um arquivo JSON e processados utilizando a biblioteca 
 ![Evasão Total](Imagem_Evasão_total_cliente.png)
 ### Analise de evasão por metodo de pagamento.
 ![Evasã_Metodo_pagamento](image.png)
-### Analise de evasão por Tipo de Contrato.
-![Tipo_contrato](output.png)
+
 ### Analisando Gasto Medio Mensal.
 ![Gato_medio_mensal](imagem_gastomensal_evasao_sim_nao.png)
 
